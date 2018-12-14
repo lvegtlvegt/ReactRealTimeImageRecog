@@ -1,2 +1,0 @@
-# ReactRealTimeImageRecog
-Created with CodeSandbox
